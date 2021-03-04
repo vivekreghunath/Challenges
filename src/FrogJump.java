@@ -5,6 +5,7 @@ public class FrogJump {
 		int A = 10;
 		int B = 85;
 		int D = 30;
+		int E = 45;
 		System.out.println(solution(A, B, D));
 	}
 
